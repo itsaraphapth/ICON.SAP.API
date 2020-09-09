@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICON.SAP.API", "ICON.SAP.API.csproj", "{21FD87EC-306B-4773-9AD5-0D9CCBB898CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FD87EC-306B-4773-9AD5-0D9CCBB898CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FD87EC-306B-4773-9AD5-0D9CCBB898CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FD87EC-306B-4773-9AD5-0D9CCBB898CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FD87EC-306B-4773-9AD5-0D9CCBB898CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFAB4877-817B-4D33-A52E-09A4EA31DD16}
+	EndGlobalSection
+EndGlobal
